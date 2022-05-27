@@ -5,29 +5,15 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: English
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: Tamil
+  weight: 5
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: Hindi
   weight: 2
 
-- name: Express
-  weight: 3
-
-- name: Django
+- name: French
   weight: 1
 
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4
