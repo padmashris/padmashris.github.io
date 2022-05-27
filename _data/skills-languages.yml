@@ -19,3 +19,6 @@
 
 - name: C
   weight: 2
+
+- name: Tableau
+  weight: 4
