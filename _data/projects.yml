@@ -13,21 +13,31 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: The Impact of Contact Patterns On Infection Rates of Chickenpox
-  descr: "Explored scenarios of chickenpox outbreaks among school-age children by comparing the effects of varying contact
-patterns between cohorts on infection rates and developed a compartmental SEIR model to account for the impact of vaccines on the spread of chickenpox"
-  #tags:
-    #- tag: MongoDB
-    #- tag: Express
+- name: Infectious Disease Modelling and Seasonality in Diseases
+  descr: "Reviewed and simulated simple epidemic models and temporally forced models; 
+          Performed time-dependent spectral analysis of epidemiological time-series with wavelet power spectrums on Smallpox and H1N1 Data;
+          Simulated an SIR Model and estimated &beta for H1N1 Data in India."
+  tags:
+    - tag: R
+    - tag: MATLAB
     #- tag: AngularJS
     #- tag: Node
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Non-discretization Schemes in Biological Systems
+  descr: "Reviewed numerical schemes that produce differential equations whose dynamics remains unchanged from the underlying continuous equation;
+          Simulated Predator-prey, cooperation and competition Lotka-Volterra models;
+          Compared local and global stability of systems before and after applying numerical schemes;"
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: MATLAB
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Customer Churn Prediction
+  descr: "Detected which customers are likely to cancel a subscription to a service based on how they use the service;
+          Predicted the customer churning using Logistic Regression, Classification Tree and Random Forest algorithms."
+  tags:
+    - tag: R
+
+- name: Churn Analysis
+  descr: "Used a Hidden Markov Model to predict churning customers;
+         Employed the Forward Algorithm, Viterbi Algorithm and Baum-Welch Algorithm to predict the probability of 4 corresponding observational states and using the training set, computed the probabilities of churning for each customer before using it on the test set."
+  tags:
+    - tag: R
