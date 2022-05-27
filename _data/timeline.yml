@@ -21,11 +21,6 @@
   title-url: https://www.liteconnect.org/
   date: June 2022 - Present
   subtitle: Research Assistant
-  tags:
-    - tag: 
-    - tag: 
-    - tag: 
-    - tag: 
   timeline-side: right
 
 - title: University of Michigan School of Public Health
@@ -38,10 +33,16 @@
     - tag: Data Analysis
     - tag: Disease Dynamics
     - tag: HFMD
-  timeline-side: right
+  timeline-side: left
 
 - title: KC High
   title-url: https://www.kchigh.com/
   date: May 2020 – Aug 2020
   subtitle: Mathematics and Computer Science Educator
   timeline-side: left
+  
+- title: BITS Pilani, Goa 
+  title-url: https://www.bits-pilani.ac.in/goa/
+  date: Aug 2018 - May 2022
+  subtitle: MSc Mathematics
+  timeline-side: right
